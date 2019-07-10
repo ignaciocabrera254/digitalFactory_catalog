@@ -23,6 +23,14 @@
       "descripción": "Kaspersky Small Office Security 6 for Desktops, Mobiles and File Servers Latin America Edition. 5-Mobile device; 5-Desktop; 1-FileServer; 5-User 1 year Base Download Pack",
       "categoria": "Software",
       "imagen":"https://falabella.scene7.com/is/image/Falabella/6884945_1?$producto308$&wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 4,
+      "nombre": "MacBook Pro",
+      "precio": "2.090.990",
+      "descripción": "Procesador: Intel Core i7",
+      "categoria": "Laptop",
+      "imagen":"https://falabella.scene7.com/is/image/Falabella/6664036_1?$producto308$&wid=800&hei=800&qlt=70"
     }
   ],
   "profile": {
